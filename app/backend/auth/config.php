@@ -7,9 +7,9 @@ $GLOBALS['config'] = array(
     ),
 
     'mysql' => array(
-        'host'          => 'localhost',
-        'username'      => 'root',
-        'password'      => '',
-        'db_name'        => 'bbc'
+        'host'          => 'host',
+        'username'      => 'username',
+        'password'      => 'password',
+        'db_name'        => 'dbname'
     ),
 );
